@@ -3,7 +3,7 @@
 ```bash
 # cat /etc/issue
 Hello, I'm chg1f (chongiofai), come from Macau and live in Beijing currently.
-Work in security development sector, interested to security and development.
+Work in security development sector, into security and development.
 Most used languages: golang, python, bash ...
 KISS
 ```
